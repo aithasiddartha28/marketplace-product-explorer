@@ -1,6 +1,6 @@
 # Horizon Cart Marketplace
 
-A production-style e-commerce marketplace app built with React, Vite, TypeScript, Tailwind CSS, Express, and TypeScript.
+A full-stack e-commerce product filtering application featuring category selection, dual-range price filtering, minimum star ratings, instant product updates, and sorting, powered by React, TypeScript, Node.js, and Express.
 
 ## Features
 
